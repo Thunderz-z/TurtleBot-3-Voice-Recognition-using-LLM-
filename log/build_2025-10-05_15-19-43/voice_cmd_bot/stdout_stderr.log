@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing voice_cmd_bot.egg-info/PKG-INFO
+writing dependency_links to voice_cmd_bot.egg-info/dependency_links.txt
+writing entry points to voice_cmd_bot.egg-info/entry_points.txt
+writing requirements to voice_cmd_bot.egg-info/requires.txt
+writing top-level names to voice_cmd_bot.egg-info/top_level.txt
+reading manifest file 'voice_cmd_bot.egg-info/SOURCES.txt'
+writing manifest file 'voice_cmd_bot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/thunderz/voice_ws/install/voice_cmd_bot/lib/python3.10/site-packages/voice-cmd-bot.egg-link (link to .)
+Installing command_mapper script to /home/thunderz/voice_ws/install/voice_cmd_bot/lib/voice_cmd_bot
+Installing voice_node script to /home/thunderz/voice_ws/install/voice_cmd_bot/lib/voice_cmd_bot
+
+Installed /home/thunderz/voice_ws/build/voice_cmd_bot
