@@ -35,7 +35,7 @@ class LLMChatNode(Node):
         # ============================================
         # OPENROUTER API KEY - Set your key here
         # ============================================
-        OPENROUTER_API_KEY = "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"
+        OPENROUTER_API_KEY = ""
         # ============================================
         
         # Initialize OpenRouter client for Dolphin 3.0 Mistral 24B
